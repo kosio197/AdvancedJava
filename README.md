@@ -1,6 +1,6 @@
 # Advanced Java
 Course URL: https://softuni.bg/trainings/1377/advanced-java-may-2016<br />
-Judge URL: https://judge.softuni.bg/Contests#!/List/ByCategory/30/Advanced-Java-Exercises
+Judge URL: https://judge.softuni.bg/Contests#!/List/ByCategory/30/Advanced-Java-Exercises<br />
 Judge exam URL: https://judge.softuni.bg/Contests/227/Java-Advanced-Exam-19-June-2016
 
 Every package contains docx file with the exercises.
