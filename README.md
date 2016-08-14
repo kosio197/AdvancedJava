@@ -4,7 +4,7 @@
 **Judge exam URL:** https://judge.softuni.bg/Contests/227/Java-Advanced-Exam-19-June-2016
 
 **Course description:**<br />
-The course "Java Advanced" covers the Java Platform and the Java language on basic level - coding skills, problem solving skills and JDK - tools for processing text, liner and tree collections,  working with files and directories. It also shows the paradigm of the functional programming - Java Stream API for processing streams of data and asynchronic programming.
+The course "Java Advanced" covers the Java Platform and the Java language on basic level - coding skills, problem solving skills and JDK - tools for processing text, liner and tree collections,  working with files and directories. It also shows the paradigm of the functional programming - Java Stream API for processing streams of data and asynchronous.
 
 * Stacks and Queues
   * Resume and basic operations, Object Initializers and code formatting
@@ -22,6 +22,6 @@ The course "Java Advanced" covers the Java Platform and the Java language on bas
   * Functions, Function types (delegates, predicates, consumers), Lambda expressions. Code formatting.
 * Stream API
   * Introduction to Stream API - focus on more complex methods (grouping, flatMap, ...)
-* Asynchronic programming
-  * Asynchronic programming, synchronize, volatile, …
+* Asynchronous programming
+  * Asynchronous programming, synchronize, volatile, …
 
