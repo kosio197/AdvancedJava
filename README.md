@@ -4,24 +4,24 @@
 **Judge exam URL:** https://judge.softuni.bg/Contests/227/Java-Advanced-Exam-19-June-2016
 
 **Course description:**<br />
-Курсът Java Advanced разглежда платформата Java, както и работата с езика на ниво над началното. Това включва писане на код (coding skills), решаване на проблеми от средно-алгоритмичен характер (problem solving skills), запознаване със стандартнатите инструменти за работа (JDK) пр. инструменти за текстообработка, линейни и дървовидни колекции и работа с файлове и директории. Обръща се внимание на парадигмата функционално програмиране, както и на основния инструмент залагащ на нея - Java Stream API за обработване на потоци от данни. В курса ще се разгледа и асинхронно програмиране, а през цялото време на обучение курсистите ще са разделени на отбори, които ще трябва да направят практически проект. Средата за разработка, която ще се използва от трейнърския екип е IntelliJ IDEA, но всеки курсист е свободен да използва инструменти по предпочитание.
+The course "Java Advanced" covers the Java Platform and the Java language on basic level - coding skills, problem solving skills and JDK - tools for processing text, liner and tree collections,  working with files and directories. It also shows the paradigm of the functional programming - Java Stream API for processing streams of data and asynchronic programming.
 
-* Стекове и опашки
-  * Резюме, базови операции, Object Initializers и форматиране на код
-* Множества и Карти
-  * Резюме и базови операции. Различни имплементации на множества и карти.
-* Файлове и директории
-  * Отваряне на файл, Записване на файл, Затваряне на файл - текстови
-* Работа с изключения
-  * Изключения, обработка на изключения, try-catch, finally
-* Ръчна обработка на текст (Strings)
-  * Краен автомат, обработка на текст (Strings), без използването на regex
-* Регулярни изрази
-  * Синтаксис на регулярните изрази, Java Api (Pattern, Matcher,...)
-* Функционално програмиране
-  * Функции, Типове функции (делегати, predicates, consumers), ламбда изрази. Форматиране на код
-* Вградени методи за заявки върху данни - Stream API
-  * Въведение в Stream API - фокусиране над по-сложни методи (grouping, flatMap, ...)
-* Асинхронно програмиране
-  * Паралелно програмиране, synchronize, volatile, …
+* Stacks and Queues
+  * Resume and basic operations, Object Initializers and code formatting
+* Sets and Maps
+  * Resume and basic operations. Different implementations of the sets and maps.
+* Files and Directories
+  * Open files, read and write files, close files
+* Exceptions
+  * Exceptions, exception handling - try-catch, finally
+* Strings
+  * Working with strings without using regex.
+* Regular expressions
+  * Syntax of the regular expressions. Java Api (Pattern, Matcher,...)
+* Functional programming
+  * Functions, Function types (delegates, predicates, consumers), Lambda expressions. Code formatting.
+* Stream API
+  * Introduction to Stream API - focus on more complex methods (grouping, flatMap, ...)
+* Asynchronic programming
+  * Asynchronic programming, synchronize, volatile, …
 
